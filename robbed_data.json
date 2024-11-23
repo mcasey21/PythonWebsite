@@ -1,0 +1,21 @@
+{
+    
+"_default": {
+
+"1": 
+{"name": "michael",
+"age": 18,
+"country": "Ireland"},
+
+"2":
+{"name": "kaithlynn",
+"age": 19,
+"country": "Ireland"},
+
+"3":
+{"name": "killian",
+"age": 19,
+"country": "blessington"}
+}
+
+}
