@@ -12,3 +12,6 @@ friend how easy it was. I used stremlits features to get the data and then used 
 to the json file
 
 F.Y.I -> euclids algorithm is a maths technique or formula to find the greatest common divisior (gcd) of 2 numbers
+
+
+![GCD Image](gcdCalcImg.png)
